@@ -1,0 +1,6 @@
+# Игнор папки .idea
+.idea/
+
+# Игнор файлов Thumbs.db, .DS_Store
+Thumbs.db
+.DS_Store
